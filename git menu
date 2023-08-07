@@ -11,4 +11,4 @@ B. to update in the existing project:
 
 1. git add .
 2. git commit -m "explain what changes"
-3. git push
+3. git push -u origin main
